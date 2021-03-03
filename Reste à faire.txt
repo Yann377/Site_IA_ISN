@@ -1,0 +1,5 @@
+image gif menu
+menu
+textes
+images centrés
+* avec IA
